@@ -18,7 +18,7 @@ import java.util.*;
 
 
 
-public class SJFScheduler {
+public class lab3 {
 
     public static void main(String[] args) throws Exception {
 
